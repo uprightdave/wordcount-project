@@ -1,0 +1,5 @@
+C:\Users\uprig\AppData\Local\Programs\Python\Python38-32\Scripts\wordcount-project>py -m manage runserver
+
+
+
+C:\Programs files\git
